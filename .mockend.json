@@ -1,5 +1,5 @@
 {
-  "buckets": [
+  "buckets": 
     {
       "bucket_id":1,
       "name":"Arijit Singh songs",
@@ -18,8 +18,8 @@
         },
       ],
     },
-  ],
-  "users":[
+  ,
+  "users":
     {
       "userName":"Prakhar Mishra",
       "userHistory":[
@@ -30,5 +30,5 @@
         },
       ],
     },
-  ],
+  
 }
